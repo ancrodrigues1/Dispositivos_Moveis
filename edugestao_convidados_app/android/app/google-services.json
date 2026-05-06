@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565344287687",
+    "project_id": "edugestaoconvidados",
+    "storage_bucket": "edugestaoconvidados.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565344287687:android:99a40afc57c1c3611377e2",
+        "android_client_info": {
+          "package_name": "com.example.edugestao_convidados_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPVJkP6rlWyxmXtFrsL9fVXpwsjWAtIVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
